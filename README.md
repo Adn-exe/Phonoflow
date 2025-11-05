@@ -12,27 +12,9 @@ This results in names that feel **natural, melodic, and fantasy-inspired** — w
 
 ---
 
-## ✨ Example Outputs
-
-Kalira Sorian
-Serina Aviel
-Avelia Miren
-Jonel Ariva
-Melion Sareen
-Talion Verana
-Elira Solen
 
 Names are generated from **letter flow**, influenced by your dataset — meaning different training data → different naming style.
 
----
-
-## 📁 Project Structure
-
-PhonoFlow-Bigram/
-│
-├─ names.txt                 # Training dataset
-├─ nameflow_bigram.ipynb     # Model notebook
-└─ README.md                 # Documentation
 
 
 ---
