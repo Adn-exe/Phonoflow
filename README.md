@@ -1,4 +1,4 @@
-# NameFlow-Bigram  
+# PhonoFlow  
 *A Smooth Character-Level Fantasy Name Generator*
 
 NameFlow-Bigram is a lightweight name generation model that learns how characters follow each other in real names.  
