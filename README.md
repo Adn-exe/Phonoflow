@@ -73,10 +73,3 @@ Credit appreciated but not required.
 🌟 Author
 Built by Adnan ✨
 Exploring how small models + human-inspired rules can create expressive language.
-
-
-
-
-
-
-
