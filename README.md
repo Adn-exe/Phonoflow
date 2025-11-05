@@ -22,9 +22,6 @@ Melion Sareen
 Talion Verana
 Elira Solen
 
-yaml
-Copy code
-
 Names are generated from **letter flow**, influenced by your dataset — meaning different training data → different naming style.
 
 ---
@@ -36,9 +33,6 @@ NameFlow-Bigram/
 ├── names.txt # Training dataset (list of input names)
 ├── nameflow_bigram.ipynb # Main Colab notebook (model + generation)
 └── README.md # Project description (this file)
-
-yaml
-Copy code
 
 ---
 
@@ -62,9 +56,6 @@ No neural networks, no transformers — **just statistics + smart sampling**.
 ## 🧠 Why It Sounds Good  
 Typical bigram models can sound choppy:
 kagt, llay, zrmol...
-
-yaml
-Copy code
 
 This model adds:
 - **phonetic shaping**
@@ -100,19 +91,6 @@ Credit appreciated but not required.
 Built by Adnan ✨
 Exploring how small models + human-inspired rules can create expressive language.
 
-yaml
-Copy code
-
----
-
-If you'd like, I can also:
-
-✅ Create a **project banner** (ASCII or logo style)  
-✅ Write a **README demo GIF**  
-✅ Add **example output section with different styles** (Elven / Dark / Human)  
-
-Just say:  
-**"Make it aesthetic"**
 
 
 
