@@ -28,11 +28,12 @@ Names are generated from **letter flow**, influenced by your dataset — meaning
 
 ## 📁 Project Structure
 
-NameFlow-Bigram/
+PhonoFlow-Bigram/
 │
-├── names.txt # Training dataset (list of input names)
-├── nameflow_bigram.ipynb # Main Colab notebook (model + generation)
-└── README.md # Project description (this file)
+├─ names.txt                 # Training dataset
+├─ nameflow_bigram.ipynb     # Model notebook
+└─ README.md                 # Documentation
+
 
 ---
 
