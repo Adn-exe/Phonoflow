@@ -1,7 +1,7 @@
 # PhonoFlow  
 *A Smooth Character-Level Fantasy Name Generator*
 
-NameFlow-Bigram is a lightweight name generation model that learns how characters follow each other in real names.  
+Phonoflow is a lightweight name generation model that learns how characters follow each other in real names.  
 It uses **bigram probabilities** (`P(next character | current character)`) extracted from your dataset and enhances them with:
 
 - **Vowel Balancing** (keeps names smooth and pronounceable)
